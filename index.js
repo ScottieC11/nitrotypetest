@@ -1,8 +1,3 @@
-const Client = require('./client')
-
-module.exports = opts => new Client(opts)
-
-
 <!DOCTYPE html>
 <html class="no-js" lang="en" translate="no" content="notranslate">
 <head>
